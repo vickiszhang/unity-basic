@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: clouds
+    uniqueID: 3274512157
+    locked: 0
+  - name: backtrees
+    uniqueID: 3830685639
+    locked: 0
+  - name: trees
+    uniqueID: 2538360151
+    locked: 0
+  - name: ground
+    uniqueID: 530173427
+    locked: 0
+  - name: chicken
+    uniqueID: 158002025
+    locked: 0
+  - name: flowers
+    uniqueID: 1658575601
+    locked: 0
